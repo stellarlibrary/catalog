@@ -4,5 +4,17 @@
     "tags": ["SAT", "Egnlish", "words"],
     "url": "https://github.com/stellarlibrary/open-words/tree/main/SAT-4000",
     "languages": ["zh-Hans", "en"]
+  },
+  {
+    "name": "SAT Vocabulary - 1000",
+    "tags": ["SAT", "Egnlish", "words"],
+    "url": "https://github.com/stellarlibrary/open-words/tree/main/SAT-1000",
+    "languages": ["zh-Hans", "en"]
+  },
+  {
+    "name": "TOEFL 1000",
+    "tags": ["SAT", "Egnlish", "words"],
+    "url": "https://github.com/stellarlibrary/open-words/tree/main/TOEFL-1000",
+    "languages": ["zh-Hans", "en"]
   }
 ]
