@@ -1,20 +1,20 @@
 [
   {
-    "name": "SAT Vocabulary - 4000",
+    "name": "SAT Vocabulary 4000",
     "tags": ["SAT", "English", "words"],
     "url": "https://github.com/stellarlibrary/open-words/tree/main/SAT-4000",
     "languages": ["zh-Hans", "en"]
   },
   {
-    "name": "SAT Vocabulary - 1000",
+    "name": "CET4 Vocabulary top 500 (Lite card)",
     "tags": ["SAT", "English", "words"],
-    "url": "https://github.com/stellarlibrary/open-words/tree/main/SAT-1000",
+    "url": "https://github.com/stellarlibrary/CET4-Lite-500",
     "languages": ["zh-Hans", "en"]
   },
   {
-    "name": "TOEFL 1000",
+    "name": "CET6 Vocabulary top 1000 (Lite card)",
     "tags": ["SAT", "English", "words"],
-    "url": "https://github.com/stellarlibrary/open-words/tree/main/TOEFL-1000",
+    "url": "https://github.com/stellarlibrary/CET6-Lite-1000",
     "languages": ["zh-Hans", "en"]
   }
 ]
