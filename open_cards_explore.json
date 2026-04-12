@@ -2,19 +2,19 @@
   {
     "name": "Chemistry Elements 20",
     "tags": ["Chemistry", "Elements"],
-    "url": "https://github.com/stellarlibrary/Chemistry-Elements-20",
+    "url": "https://github.com/stellarlibrary/Chemistry-Elements-20/tree/main",
     "languages": ["en"]
   },
   {
     "name": "CET4 Vocabulary top 500 (Lite card)",
     "tags": ["SAT", "English", "words"],
-    "url": "https://github.com/stellarlibrary/CET4-Lite-500",
+    "url": "https://github.com/stellarlibrary/CET4-Lite-500/tree/main",
     "languages": ["zh-Hans", "en"]
   },
   {
     "name": "CET6 Vocabulary top 1000 (Lite card)",
     "tags": ["SAT", "English", "words"],
-    "url": "https://github.com/stellarlibrary/CET6-Lite-1000",
+    "url": "https://github.com/stellarlibrary/CET6-Lite-1000/tree/main",
     "languages": ["zh-Hans", "en"]
   }
 ]
