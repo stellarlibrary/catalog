@@ -1,5 +1,11 @@
 [
   {
+    "name": "Calculus-I-II",
+    "tags": ["Calculus", "Math"],
+    "url": "https://github.com/stellarlibrary/open-cards/tree/main/calculus-I-II",
+    "languages": ["en"]
+  },
+  {
     "name": "Chemistry Elements 20 (Lite)",
     "tags": ["Chemistry", "Elements"],
     "url": "https://github.com/stellarlibrary/Chemistry-Elements-20/tree/main",
