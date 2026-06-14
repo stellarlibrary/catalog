@@ -22,5 +22,11 @@
     "tags": ["SAT", "English", "words"],
     "url": "https://github.com/stellarlibrary/CET6-Lite-1000/tree/main",
     "languages": ["zh-Hans", "en"]
+  },
+  {
+    "name": "唐诗三百首",
+    "tags": ["诗歌", "诗词", "唐诗"],
+    "url": "https://github.com/stellarlibrary/open-cards/tree/main/poems-tangshi300/tree/main",
+    "languages": ["zh-Hans"]
   }
 ]
