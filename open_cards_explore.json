@@ -25,7 +25,7 @@
   },
   {
     "name": "唐诗三百首",
-    "tags": ["诗歌", "诗词", "唐诗"],
+    "tags": ["唐诗"],
     "url": "https://github.com/stellarlibrary/open-cards/tree/main/poems-tangshi300",
     "languages": ["zh-Hans", "en"]
   }
